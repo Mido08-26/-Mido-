@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">WallMax</string>
+    <string name="search_placeholder">Search wallpapers, themes, creators...</string>
+    <string name="all_categories">All</string>
+    <string name="category_nature">Nature</string>
+    <string name="category_minimal">Minimal</string>
+    <string name="category_anime">Anime</string>
+    <string name="category_abstract">Abstract</string>
+    <string name="category_space">Space</string>
+    <string name="category_cars">Cars</string>
+    <string name="category_dark">Dark Mode</string>
+    <string name="category_architecture">Architecture</string>
+    <string name="set_as_wallpaper">Set as Wallpaper</string>
+    <string name="download_to_device">Download</string>
+    <string name="favorites_tab">Favorites</string>
+    <string name="explore_tab">Explore</string>
+    <string name="search_tab">Search</string>
+    <string name="wallpaper_saved_success">Saved to Gallery successfully!</string>
+    <string name="wallpaper_save_failed">Could not save wallpaper to local storage.</string>
+    <string name="wallpaper_apply_started">Applying wallpaper, please wait...</string>
+    <string name="wallpaper_apply_success">Wallpaper applied successfully!</string>
+    <string name="wallpaper_apply_failed">Failed to set wallpaper.</string>
+    <string name="dialog_title_set_wallpaper">How would you like to apply?</string>
+    <string name="option_home_screen">Home Screen</string>
+    <string name="option_lock_screen">Lock Screen</string>
+    <string name="option_both_screens">Both Screens</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="no_favorites_title">Your Favorites is Empty</string>
+    <string name="no_favorites_desc">Mark wallpapers with a heart to save them offline here!</string>
+    <string name="no_results_title">No Wallpapers Found</string>
+    <string name="no_results_desc">Try searching for other words like Forest, Space, Neon, Porsche, etc.</string>
+    <string name="creator_label">Photographer</string>
+    <string name="likes_count_format">%1$d Likes</string>
+    <string name="daily_updated_tag">Daily Updates Active</string>
+    <string name="daily_updated_sub">Fresh high-quality collections refreshed hours ago</string>
+    <string name="toggle_language">العربية</string>
+    <string name="language_section_title">Interface Language (اللغة)</string>
+    <string name="all_wallpapers_subheader">Curated Wallpaper Base (%1$d+ items)</string>
+
+    <!-- NEW EDITOR STRINGS -->
+    <string name="edit_wallpaper_action">Edit Photo</string>
+    <string name="edit_editor_title">Creative Studio</string>
+    <string name="edit_rotate">Rotate 90°</string>
+    <string name="edit_crop">Crop Bounds</string>
+    <string name="edit_filters">Atmosphere Filters</string>
+    <string name="filter_original">Original</string>
+    <string name="filter_grayscale">Grayscale</string>
+    <string name="filter_high_contrast">Contrast+</string>
+    <string name="filter_warm">Warm Gold</string>
+    <string name="filter_cool">Cool Ice</string>
+    <string name="filter_vintage">Vintage Film</string>
+    <string name="edit_apply_changes">Save &amp; Use</string>
+
+    <!-- NEW SMART NOTIFICATIONS STRINGS -->
+    <string name="nav_notifications">Notifications</string>
+    <string name="notif_panel_title">Smart Alerts Center</string>
+    <string name="notif_toggle">Enable Smart Notifications</string>
+    <string name="notif_freq_title">Notification Frequency</string>
+    <string name="notif_freq_daily">Daily Updates Alerts</string>
+    <string name="notif_freq_weekly">Weekly Digests Only</string>
+    <string name="notif_topics_title">Interests &amp; Tag Filters</string>
+    <string name="notif_topic_nature">Nature Wallpapers Alerts</string>
+    <string name="notif_topic_space">Cosmic &amp; Space Alerts</string>
+    <string name="notif_topic_cars">Automotive &amp; Supercars Alerts</string>
+    <string name="notif_topic_community">Community Additions Alerts</string>
+    <string name="notif_save_toast">Notification preferences saved locally!</string>
+    <string name="notif_trigger_alert">Mock Notification Triggered in drawer!</string>
+
+    <!-- NEW COOPERATIVE COLLECTIONS STRINGS -->
+    <string name="nav_collections">Collections</string>
+    <string name="coll_header_title">Social Communities</string>
+    <string name="coll_creation_title">Create Collection</string>
+    <string name="coll_name_label">Collection Title</string>
+    <string name="coll_desc_label">Brief Description</string>
+    <string name="coll_public_switch">Make Public (Anyone can search/join)</string>
+    <string name="coll_submit">Construct Collection</string>
+    <string name="coll_created_toast">Collection created successfully!</string>
+    <string name="coll_search_hint">Explore communities &amp; shared rooms...</string>
+    <string name="coll_join_btn">Join Community</string>
+    <string name="coll_joined_status">Joined (Member)</string>
+    <string name="coll_leave_btn">Leave Group</string>
+    <string name="coll_invite_btn">Invite Buddies</string>
+    <string name="coll_invite_dialog_title">Select friends to invite</string>
+    <string name="coll_invite_success_toast">Shared invitations dispatched!</string>
+    <string name="coll_empty_state_title">No Shared Collections</string>
+    <string name="coll_empty_state_desc">Start a custom room or search public boards to pin wallpapers with friends!</string>
+    <string name="add_to_coll_fab">Pin to Collection</string>
+    <string name="select_coll_dialog">Which collection do you want to cross-reference?</string>
+    <string name="pinned_success_toast">Wallpaper pinned to collection!</string>
+</resources>

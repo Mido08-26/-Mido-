@@ -1,0 +1,6 @@
+{
+  "name": "WallMax",
+  "description": "Premium High-Quality Wallpapers app with daily updates, intelligent search, favorites management, direct dynamic wallpaper setting, and Full Arabic/English multi-language support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

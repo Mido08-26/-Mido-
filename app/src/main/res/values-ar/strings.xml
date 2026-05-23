@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">وول ماكس</string>
+    <string name="search_placeholder">ابحث عن خلفيات، ثيمات، مصورين...</string>
+    <string name="all_categories">الكل</string>
+    <string name="category_nature">طبيعة</string>
+    <string name="category_minimal">بساطة</string>
+    <string name="category_anime">أنمي</string>
+    <string name="category_abstract">تجريدي</string>
+    <string name="category_space">الفضاء</string>
+    <string name="category_cars">سيارات</string>
+    <string name="category_dark">الوضع الداكن</string>
+    <string name="category_architecture">عمارة</string>
+    <string name="set_as_wallpaper">تعيين كخلفية</string>
+    <string name="download_to_device">تحميل للجوال</string>
+    <string name="favorites_tab">المفضلة</string>
+    <string name="explore_tab">تصفح</string>
+    <string name="search_tab">البحث</string>
+    <string name="wallpaper_saved_success">تم حفظ الخلفية في الاستوديو بنجاح!</string>
+    <string name="wallpaper_save_failed">تعذر حفظ الخلفية في وحدة التخزين.</string>
+    <string name="wallpaper_apply_started">جاري تعيين الخلفية، يرجى الانتظار...</string>
+    <string name="wallpaper_apply_success">تم تعيين الخلفية بنجاح!</string>
+    <string name="wallpaper_apply_failed">فشل في تعيين الخلفية.</string>
+    <string name="dialog_title_set_wallpaper">أين ترغب في تعيين الخلفية؟</string>
+    <string name="option_home_screen">الشاشة الرئيسية</string>
+    <string name="option_lock_screen">شاشة القفل</string>
+    <string name="option_both_screens">الشاشتين معاً</string>
+    <string name="dialog_cancel">إلغاء</string>
+    <string name="no_favorites_title">قائمة المفضلة فارغة</string>
+    <string name="no_favorites_desc">اضغط على أيقونة القلب على أي خلفية لحفظها في وضع عدم الاتصال هنا!</string>
+    <string name="no_results_title">لم نعثر على خلفيات</string>
+    <string name="no_results_desc">جرّب البحث بكلمات أخرى مثل: طبيعة، فضاء، نيون، سيارات، بورشه، بسيط.</string>
+    <string name="creator_label">المصور</string>
+    <string name="likes_count_format">%1$d إعجاب</string>
+    <string name="daily_updated_tag">التحديث اليومي نشط</string>
+    <string name="daily_updated_sub">مجموعات عالية الجودة تمت إضافتها وتحديثها قبل قليل</string>
+    <string name="toggle_language">English</string>
+    <string name="language_section_title">لغة الواجهة (Language)</string>
+    <string name="all_wallpapers_subheader">قاعدة الخلفيات المنسقة (+%1$d صورة)</string>
+
+    <!-- NEW EDITOR STRINGS (Arabic) -->
+    <string name="edit_wallpaper_action">تعديل الصورة</string>
+    <string name="edit_editor_title">استوديو الإبداع</string>
+    <string name="edit_rotate">تدوير 90°</string>
+    <string name="edit_crop">أبعاد القص</string>
+    <string name="edit_filters">فلاتر الأجواء</string>
+    <string name="filter_original">تلقائي</string>
+    <string name="filter_grayscale">أبيض وأسود</string>
+    <string name="filter_high_contrast">تباين تلويني</string>
+    <string name="filter_warm">ذهبي دافئ</string>
+    <string name="filter_cool">جليدي بارد</string>
+    <string name="filter_vintage">شريط سينمائي</string>
+    <string name="edit_apply_changes">حفظ وتعديل التعيين</string>
+
+    <!-- NEW SMART NOTIFICATIONS STRINGS (Arabic) -->
+    <string name="nav_notifications">التنبيهات</string>
+    <string name="notif_panel_title">مركز التنبيهات الذكي</string>
+    <string name="notif_toggle">تفعيل الإشعارات الذكية</string>
+    <string name="notif_freq_title">معدل تكرار الإشعارات</string>
+    <string name="notif_freq_daily">نشاط يومي مستمر</string>
+    <string name="notif_freq_weekly">ملخصات أسبوعية فقط</string>
+    <string name="notif_topics_title">اهتماماتك والوسوم المفضلة</string>
+    <string name="notif_topic_nature">تنبيهات خلفيات الطبيعة</string>
+    <string name="notif_topic_space">تنبيهات الفلك والفضاء</string>
+    <string name="notif_topic_cars">تنبيهات المحركات والسيارات</string>
+    <string name="notif_topic_community">تنبيهات المجموعات المشتركة</string>
+    <string name="notif_save_toast">تم حفظ تفضيلات الإشعارات بنجاح!</string>
+    <string name="notif_trigger_alert">تم إرسال إشعار تجريبي في لوحة تنبيهات الجوال!</string>
+
+    <!-- NEW COOPERATIVE COLLECTIONS STRINGS (Arabic) -->
+    <string name="nav_collections">المجموعات</string>
+    <string name="coll_header_title">مجتمعات الخلفيات المشتركة</string>
+    <string name="coll_creation_title">إنشاء مجموعة جديدة</string>
+    <string name="coll_name_label">اسم المجموعة التشاركية</string>
+    <string name="coll_desc_label">وصف قصير للغرفة</string>
+    <string name="coll_public_switch">مجموعة عامة (يمكن البحث عنها والانضمام لها)</string>
+    <string name="coll_submit">أمر الإنشاء والتشييد</string>
+    <string name="coll_created_toast">تم إنشاء المجموعة بنجاح!</string>
+    <string name="coll_search_hint">ابحث عن مجتمعات أو غرف مشاركة...</string>
+    <string name="coll_join_btn">انضمام للمجموعة</string>
+    <string name="coll_joined_status">عضو منضم للغرفة</string>
+    <string name="coll_leave_btn">مغادرة المجموعة</string>
+    <string name="coll_invite_btn">دعوة الأصدقاء</string>
+    <string name="coll_invite_dialog_title">اختر من تود دعوته للغرفة</string>
+    <string name="coll_invite_success_toast">تم إرسال بطاقات الدعوة بنجاح!</string>
+    <string name="coll_empty_state_title">لا توجد مجموعات تشاركية</string>
+    <string name="coll_empty_state_desc">ابدأ بإنشاء غرفتك الافتراضية الخاصة أو تفضل بالبحث في المجتمعات العامة والمساهمة مع الأصدقاء!</string>
+    <string name="add_to_coll_fab">إضافة لغرفة مخصصة</string>
+    <string name="select_coll_dialog">إلى أي من مجموعاتك ترغب في توجيه الخلفية؟</string>
+    <string name="pinned_success_toast">تم ربط وحفظ الخلفية بالمجموعة بنجاح!</string>
+</resources>
